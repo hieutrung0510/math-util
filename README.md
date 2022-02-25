@@ -1,3 +1,4 @@
+[![MathUtility Project Using CI & JUnit | © 2022 by Hieu Trung](https://github.com/hieutrung0510/math-util/actions/workflows/mathutil-ci.yml/badge.svg)](https://github.com/hieutrung0510/math-util/actions/workflows/mathutil-ci.yml)
 # Welcome to Math Utility Repository
 
 ## This repo stores a Java library to support for the Math calculator.You will find in this repo the following stuff
